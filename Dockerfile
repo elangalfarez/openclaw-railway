@@ -8,6 +8,7 @@ RUN apt-get update \
     gosu \
     procps \
     python3 \
+    python3-pip \
     tini \
     build-essential \
     zip \
