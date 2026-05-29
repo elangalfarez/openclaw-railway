@@ -9,6 +9,7 @@ RUN apt-get update \
     procps \
     python3 \
     python3-pip \
+    python3-venv \
     tini \
     build-essential \
     zip \
